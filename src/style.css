@@ -37,6 +37,11 @@ button:hover {
   color: #407088;
 }
 
+footer {
+  margin-top: 10px;
+  text-align: center;
+}
+
 #current-city {
   font-size: 40px;
   font-family: "Comic Neue", cursive;
